@@ -1,3 +1,1 @@
-(function () {
-  window.location.replace("https://www.google.com");
-})();
+window.location.replace("https://www.google.com");
